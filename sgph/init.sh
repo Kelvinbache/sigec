@@ -10,7 +10,7 @@ NC='\033[0m' # No Color
 # Configuración
 CONTAINER_NAME="myXampp"
 PORT="41062"
-VOLUME_PATH="/home/mskj/Descargas/proyecto/sigec:/opt/lampp/htdocs"
+VOLUME_PATH="/home/mskj/Descargas/proyecto/sgph:/opt/lampp/htdocs"
 IMAGE="tomsik68/xampp:8"
 
 # Función para mostrar ayuda
